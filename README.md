@@ -1,6 +1,6 @@
 # 🐱 Meow Lang
 
-Meow Lang is an **interpreted** programming language with a cat-themed syntax. The interpreter is written in **Go**. The **sample.txt** file contains the sample code. The **interpreter.go** file has the interpreter
+Meow Lang is an **interpreted** toy programming language with a cat-themed syntax. The interpreter is written in **Go**. The **sample.txt** file contains the sample code. The **interpreter.go** file has the interpreter
 written. Currently you have to change the file name of your code in the **main function** of interpreter and run the **interpreter.go** itself. Find the entire documentation regarding syntax of language [here](https://docs.google.com/document/d/1v5oVxh43-RfygwwAfl4d848zmCxvvGUfmjWZL2DoPMQ/edit?tab=t.2prreufkgq0p). 
 
 ---
@@ -78,7 +78,7 @@ Supports basic **binary** mathematical operations:
 | Multiplication | `*` |
 | Division  | `/`    |
 | Bitwise AND | `&`  |
-| Bitwise OR | `|`   |
+| Bitwise OR | `\|`   |
 | Bitwise XOR | `^`  |
 
 ---
