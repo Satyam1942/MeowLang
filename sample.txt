@@ -1,0 +1,12 @@
+Hello Kitty!
+meow a = 4
+meow b = 5
+// if a is not equal to b then add them else subtract them 
+meowIf a != b 
+    meow a = a + b
+otherwiseScratch
+    meow a = a - b
+purrln a
+Bye Kitty!
+
+This will be ignored
